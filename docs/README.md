@@ -7,14 +7,18 @@
 * Профиль на github: [https://github.com/4taa](https://github.com/4taa)
 
 ## Работа
-* Mail.ru Group(с 24 апреля 2019 года по настоящее время)
+* Mail.ru Group(с 24 апреля 2019 года по 28 сентября 2021)
     * Frontend-разработчик проектов: "Почта", "Календарь", "Задачи"
+* МТС Диджитал
+    * Frontend-разработчик внутренних проектов
 
 ## Профессиональные навыки:
 * JavaScript
 * Apollo
 * TypeScript
 * React(в т.ч. tsx)
+* Vue
+* Composition API
 * HTML
 * CSS
 * RxJS
